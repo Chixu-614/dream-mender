@@ -1,0 +1,10 @@
+# Local test snapshots are not release assets
+LOCAL-TEST-RECOVERY.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+.DS_Store
