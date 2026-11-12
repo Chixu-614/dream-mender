@@ -56,7 +56,7 @@ python3 build-local.py
 - [离线单文件版说明与验证](LOCAL-REPORT.md)
 - [第七轮整改](ROUND7-REPORT.md)
 - [原计划与进度](PROGRESS.md)
-- [改写前 README 完整历史快照](https://github.com/Chixu-614/dream-mender/blob/6823aa7ac55c2a88ed5fae93493018d7cf1ab537/README.md)
+- [改写前 README 完整历史快照](https://github.com/Chixu-614/dream-mender/blob/5bc94160c7bd6db5b2634b3f456cf3bb30d61aff/README.md)
 
 本次仅核对线上页面加载、当前页面引用资源和收藏页导航，不代表十五场梦、全部结算边界、家具组合、真实手机声音和多设备兼容已经完成全量回归。更早的 README 也可通过文件提交历史查看。
 
