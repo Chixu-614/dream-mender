@@ -1,0 +1,12 @@
+# GitHub Pages deployment exclusions; source files remain in the repository.
+# This is NOT access control: files in a public repository remain public.
+exclude:
+  - README.md
+  - BEAUTIFY-REPORT.md
+  - INTERIOR-REPORT.md
+  - LOCAL-REPORT.md
+  - PROGRESS.md
+  - ROUND7-REPORT.md
+  - TOUCHUP-REPORT.md
+  - build-local.py
+  - "梦境织补屋-直接打开.html"
